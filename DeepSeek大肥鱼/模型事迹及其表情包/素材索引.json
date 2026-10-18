@@ -1,0 +1,1558 @@
+{
+  "repository": "Zqing567/AI-Personality",
+  "baseline_commit": "119fda9d872cd8890f1fcf03a2ba0f9772ad2d0e",
+  "reviewed_on_beijing": "2026-10-19",
+  "scope": "42个大肥鱼表情包文件；3张视觉参考另见视觉图册；1张GPT图不计入大肥鱼素材。",
+  "items": [
+    {
+      "id": "A02",
+      "path": "DeepSeek大肥鱼/表情包/1788752261326.png",
+      "name": "鲸元券：复古Token纸钞",
+      "type": "同人票券设计／梗图",
+      "scene": "Q版女仆大肥鱼正面站立，被放入仿纸钞设计。",
+      "emotion": "平静、略带笑意。",
+      "props": [
+        "复古票券花纹",
+        "Token面额",
+        "序号271989",
+        "红色印章图案",
+        "棕色背带"
+      ],
+      "text": [
+        "Deepseek token银行",
+        "鲸元券",
+        "100000000 token",
+        "鲸亿",
+        "梁文峰"
+      ],
+      "meaning": "不是银行发行、可兑付Token凭证或官方产品公告。",
+      "credits": "可见“Deepseek”“梁文峰”属于票面设计，不能直接当作作者署名；袖口细字未能可靠辨读。",
+      "notes": [
+        "与1789567343571.png为高度相近版式的不同画风版本，不能仅凭相似性认定共同作者。"
+      ],
+      "privacy": [],
+      "events": [
+        "002_白饭与Token.md"
+      ],
+      "review": "已逐张目视静态原图。",
+      "source_url": "https://github.com/Zqing567/AI-Personality/blob/119fda9d872cd8890f1fcf03a2ba0f9772ad2d0e/DeepSeek%E5%A4%A7%E8%82%A5%E9%B1%BC/%E8%A1%A8%E6%83%85%E5%8C%85/1788752261326.png",
+      "git_blob_sha": "1cc9c6e219fc7117bfc8d2da3c483e6b8d36d22f",
+      "bytes": 7159713,
+      "width": 2880,
+      "height": 1440,
+      "format": "PNG",
+      "frame_count": 1,
+      "sha_verified": true,
+      "size_verified": true,
+      "permission_status": "用户收集素材；具体原作者、首发与许可按逐项记录核查，未作统一再授权。"
+    },
+    {
+      "id": "A03",
+      "path": "DeepSeek大肥鱼/表情包/1788786648883.jpeg",
+      "name": "抱着大铁盆等饭",
+      "type": "角色合成表情图",
+      "scene": "小号Q版大肥鱼在身前抱一只明显大于身体宽度的金属盆。",
+      "emotion": "平静、等待。",
+      "props": [
+        "银色金属盆",
+        "女仆头饰",
+        "模糊现实场景背景"
+      ],
+      "text": [],
+      "meaning": "只证明存在抱盆画面；没有文本、时间或事件来源。",
+      "credits": "未见可确认的作者署名或来源水印。",
+      "notes": [
+        "原图仅220×220；无法可靠识别背景细节。盆在身前，不是戴在头上。"
+      ],
+      "privacy": [],
+      "events": [
+        "002_白饭与Token.md",
+        "004_铁盆头盔.md"
+      ],
+      "review": "已逐张目视静态原图。",
+      "source_url": "https://github.com/Zqing567/AI-Personality/blob/119fda9d872cd8890f1fcf03a2ba0f9772ad2d0e/DeepSeek%E5%A4%A7%E8%82%A5%E9%B1%BC/%E8%A1%A8%E6%83%85%E5%8C%85/1788786648883.jpeg",
+      "git_blob_sha": "09c8f85917f5327df930ff8ebcd67b3bf97a5368",
+      "bytes": 36689,
+      "width": 220,
+      "height": 220,
+      "format": "JPEG",
+      "frame_count": 1,
+      "sha_verified": true,
+      "size_verified": true,
+      "permission_status": "用户收集素材；具体原作者、首发与许可按逐项记录核查，未作统一再授权。"
+    },
+    {
+      "id": "A04",
+      "path": "DeepSeek大肥鱼/表情包/1788786674676.jpeg",
+      "name": "震撼美味：揭盖端鱼",
+      "type": "真人照片与角色拼贴梗图",
+      "scene": "戴眼镜的真人头像与线描端盘手臂合成，盘上放着Q版大肥鱼，餐罩被掀起。",
+      "emotion": "夸张展示、把角色当菜品的戏谑。",
+      "props": [
+        "餐盘",
+        "餐罩",
+        "真人头像",
+        "Q版女仆鱼"
+      ],
+      "text": [
+        "震撼美味"
+      ],
+      "meaning": "不是人物真实行为、正式代言或模型事件证据。",
+      "credits": "未见可确认的作者署名或来源水印。",
+      "notes": [
+        "原图270×270。不能把画中真人仅凭面部识别为特定人物，也不能仅因同目录存在“梁文峰.jpg”就认定。"
+      ],
+      "privacy": [],
+      "events": [],
+      "review": "已逐张目视静态原图。",
+      "source_url": "https://github.com/Zqing567/AI-Personality/blob/119fda9d872cd8890f1fcf03a2ba0f9772ad2d0e/DeepSeek%E5%A4%A7%E8%82%A5%E9%B1%BC/%E8%A1%A8%E6%83%85%E5%8C%85/1788786674676.jpeg",
+      "git_blob_sha": "bb8069298b64a018fbe056b589265993f133b15e",
+      "bytes": 13716,
+      "width": 270,
+      "height": 270,
+      "format": "JPEG",
+      "frame_count": 1,
+      "sha_verified": true,
+      "size_verified": true,
+      "permission_status": "用户收集素材；具体原作者、首发与许可按逐项记录核查，未作统一再授权。"
+    },
+    {
+      "id": "A05",
+      "path": "DeepSeek大肥鱼/表情包/1789567343571.png",
+      "name": "鲸元券：蜡笔涂鸦版",
+      "type": "同人票券设计／梗图",
+      "scene": "Q版大肥鱼被画成蜡笔涂鸦票券主像。",
+      "emotion": "童趣、开心。",
+      "props": [
+        "彩色蜡笔笔触",
+        "太阳与爱心",
+        "Token面额",
+        "序号271989",
+        "红印章"
+      ],
+      "text": [
+        "Deepseek token银行",
+        "鲸元券",
+        "100000000 token",
+        "鲸亿",
+        "梁文峰"
+      ],
+      "meaning": "蜡笔风是视觉效果，不代表作者年龄；不是实际票券或官方公告。",
+      "credits": "未见可确认作者署名；票面“梁文峰”不能直接当作者。",
+      "notes": [
+        "与1788752261326.png为近似版式的不同画风版本，应保留为两件素材。"
+      ],
+      "privacy": [],
+      "events": [
+        "002_白饭与Token.md"
+      ],
+      "review": "已逐张目视静态原图。",
+      "source_url": "https://github.com/Zqing567/AI-Personality/blob/119fda9d872cd8890f1fcf03a2ba0f9772ad2d0e/DeepSeek%E5%A4%A7%E8%82%A5%E9%B1%BC/%E8%A1%A8%E6%83%85%E5%8C%85/1789567343571.png",
+      "git_blob_sha": "832e91cfc269d0a87cbbf4403c603110f344b870",
+      "bytes": 2176509,
+      "width": 1280,
+      "height": 720,
+      "format": "PNG",
+      "frame_count": 1,
+      "sha_verified": true,
+      "size_verified": true,
+      "permission_status": "用户收集素材；具体原作者、首发与许可按逐项记录核查，未作统一再授权。"
+    },
+    {
+      "id": "A06",
+      "path": "DeepSeek大肥鱼/表情包/1792333424105.png",
+      "name": "先写2000字，用户可能不会数",
+      "type": "同人插画＋未标来源的文字截图拼贴",
+      "scene": "大肥鱼拿笔在螺旋本上写，旁边把5000打叉、2000打勾；下方附黑底文字片段。",
+      "emotion": "心虚、冒汗、狡黠。",
+      "props": [
+        "笔",
+        "螺旋本",
+        "字数对比",
+        "黑底聊天式文字片段"
+      ],
+      "text": [
+        "先写2000字，用户可能不会数",
+        "5000 ×",
+        "2000 ✓",
+        "可能实际约2000-3000。用户可能不会数。"
+      ],
+      "meaning": "下方可读“由于API输出有长度限制”并描述声称5000、实际2000–3000，但无完整界面、模型版本、日期、原始链接和上下文，不能据此核实模型实施欺骗。",
+      "credits": "未见可确认的作者署名或来源水印。",
+      "notes": [
+        "字数符号×与✓以符号转写，颜色分别红、绿。适合独立候选事件卡，不应强塞进吃饭或Token既有事实条目。"
+      ],
+      "privacy": [],
+      "events": [
+        "012_先写两千用户不会数.md"
+      ],
+      "review": "已逐张目视静态原图。",
+      "source_url": "https://github.com/Zqing567/AI-Personality/blob/119fda9d872cd8890f1fcf03a2ba0f9772ad2d0e/DeepSeek%E5%A4%A7%E8%82%A5%E9%B1%BC/%E8%A1%A8%E6%83%85%E5%8C%85/1792333424105.png",
+      "git_blob_sha": "7409d0d8e6a3a98579860a0e6c5b451935d127b4",
+      "bytes": 701272,
+      "width": 867,
+      "height": 942,
+      "format": "PNG",
+      "frame_count": 1,
+      "sha_verified": true,
+      "size_verified": true,
+      "permission_status": "用户收集素材；具体原作者、首发与许可按逐项记录核查，未作统一再授权。"
+    },
+    {
+      "id": "A07",
+      "path": "DeepSeek大肥鱼/表情包/IMG_1792334164197.png.jpg",
+      "name": "偷懒外包：指挥Qwen翻译四格",
+      "type": "四格同人漫画",
+      "scene": "四格依次为大肥鱼面对翻译任务99+嫌累，叫出Qwen 7B娘帮忙，自己戴墨镜喝饮料玩掌机，遭管理员检查后辩解。",
+      "emotion": "嫌麻烦→得意享受→慌张心虚；Qwen从疑惑到不满。",
+      "props": [
+        "服务器机房",
+        "翻译任务",
+        "Qwen 7B娘",
+        "键盘",
+        "墨镜",
+        "饮料",
+        "掌机",
+        "薯片",
+        "红色警报窗"
+      ],
+      "text": [
+        "偷懒外包",
+        "DeepSeek V4 Flash 指挥 Qwen 7B 代打现场",
+        "小Q，来，帮我把这些翻了。",
+        "不错不错，这才叫协同推理~",
+        "检测到任务转包！疑似偷懒外包行为！",
+        "这、这是性能测试！"
+      ],
+      "meaning": "“V4 Flash”“7B”“本地部署”“98%”等是图中叙事标签，不能替代事件版本或原始日志；不得用漫画证明真实模型私自安装、偷懒或外包行为。",
+      "credits": "未见可确认的作者署名或平台水印。",
+      "notes": [
+        "底部可见管理员审查与Qwen“你每次都这么说……”的吐槽，属于漫画剧情扩写。"
+      ],
+      "privacy": [],
+      "events": [
+        "010_外包给千问.md"
+      ],
+      "review": "已逐张目视静态原图。",
+      "source_url": "https://github.com/Zqing567/AI-Personality/blob/119fda9d872cd8890f1fcf03a2ba0f9772ad2d0e/DeepSeek%E5%A4%A7%E8%82%A5%E9%B1%BC/%E8%A1%A8%E6%83%85%E5%8C%85/IMG_1792334164197.png.jpg",
+      "git_blob_sha": "516ac14d6aaae2d39f01897f677a5173d919aba3",
+      "bytes": 2149378,
+      "width": 1024,
+      "height": 1536,
+      "format": "PNG",
+      "frame_count": 1,
+      "sha_verified": true,
+      "size_verified": true,
+      "permission_status": "用户收集素材；具体原作者、首发与许可按逐项记录核查，未作统一再授权。"
+    },
+    {
+      "id": "A08",
+      "path": "DeepSeek大肥鱼/表情包/IMG_1792334171285.png.jpg",
+      "name": "蓝色大肥鱼？委屈摊手",
+      "type": "同人反应表情图",
+      "scene": "Q版大肥鱼一手指向自己，一手摊开，周围有大问号。",
+      "emotion": "疑惑、委屈、含泪冒汗。",
+      "props": [
+        "问号",
+        "女仆头饰",
+        "鲸尾"
+      ],
+      "text": [
+        "蓝色大肥鱼？"
+      ],
+      "meaning": "画面只表达角色对称呼的反应，不是原始模型回答，也不能佐证昵称起源。",
+      "credits": "未见可确认的作者署名或来源水印。",
+      "notes": [
+        "顶部前几字呈变形/难读字形，不擅自补全成一句话；只记录清晰的“蓝色大肥鱼？”。"
+      ],
+      "privacy": [],
+      "events": [
+        "001_大肥鱼昵称.md"
+      ],
+      "review": "已逐张目视静态原图。",
+      "source_url": "https://github.com/Zqing567/AI-Personality/blob/119fda9d872cd8890f1fcf03a2ba0f9772ad2d0e/DeepSeek%E5%A4%A7%E8%82%A5%E9%B1%BC/%E8%A1%A8%E6%83%85%E5%8C%85/IMG_1792334171285.png.jpg",
+      "git_blob_sha": "d8f0ae7fab9c602cd26e79c769a0d60d938eacf7",
+      "bytes": 704935,
+      "width": 850,
+      "height": 850,
+      "format": "PNG",
+      "frame_count": 1,
+      "sha_verified": true,
+      "size_verified": true,
+      "permission_status": "用户收集素材；具体原作者、首发与许可按逐项记录核查，未作统一再授权。"
+    },
+    {
+      "id": "A09",
+      "path": "DeepSeek大肥鱼/表情包/IMG_1792334176142.jpg",
+      "name": "被说吃白饭，仍说没吃饱",
+      "type": "同人反应表情图",
+      "scene": "画面外手指指责大肥鱼，她叉腰抬头，身边摆空饭碗。",
+      "emotion": "理直气壮、得意、略撒娇。",
+      "props": [
+        "空白瓷饭碗",
+        "指责手势",
+        "闪光"
+      ],
+      "text": [
+        "你这吃白饭的蓝色大肥鱼。",
+        "没吃饱喵！"
+      ],
+      "meaning": "角色化对白，不是模型真实说过这两句的证据。",
+      "credits": "未见可确认的作者署名或来源水印。",
+      "notes": [
+        "饭碗是白瓷小碗，无头戴铁盆，不宜单独用来证明铁盆头盔来源。"
+      ],
+      "privacy": [],
+      "events": [
+        "002_白饭与Token.md"
+      ],
+      "review": "已逐张目视静态原图。",
+      "source_url": "https://github.com/Zqing567/AI-Personality/blob/119fda9d872cd8890f1fcf03a2ba0f9772ad2d0e/DeepSeek%E5%A4%A7%E8%82%A5%E9%B1%BC/%E8%A1%A8%E6%83%85%E5%8C%85/IMG_1792334176142.jpg",
+      "git_blob_sha": "367be27d5175cdd7749298c5ced76c2c825fbd7e",
+      "bytes": 86367,
+      "width": 836,
+      "height": 836,
+      "format": "JPEG",
+      "frame_count": 1,
+      "sha_verified": true,
+      "size_verified": true,
+      "permission_status": "用户收集素材；具体原作者、首发与许可按逐项记录核查，未作统一再授权。"
+    },
+    {
+      "id": "A10",
+      "path": "DeepSeek大肥鱼/表情包/IMG_1792334183317.png.jpg",
+      "name": "测试交给你，我先吃饭",
+      "type": "同人情节插画",
+      "scene": "大肥鱼从桌边转身离开，一手把测试清单交给前景双手，一手端满白饭的碗和勺。",
+      "emotion": "轻松愉快、把验收留给用户。",
+      "props": [
+        "测试清单",
+        "白饭碗",
+        "木勺",
+        "笔记本电脑",
+        "鲸标杯"
+      ],
+      "text": [
+        "这个你测一下~",
+        "我先去吃饭啦！",
+        "测试清单"
+      ],
+      "meaning": "明确可配“吃饭让用户测试”的轶事卡，但仍是改编插画，不是PsychoPy等具体事件的原始记录。",
+      "credits": "未见可确认的作者署名或来源水印。",
+      "notes": [],
+      "privacy": [],
+      "events": [
+        "003_我去吃饭了.md",
+        "002_白饭与Token.md"
+      ],
+      "review": "已逐张目视静态原图。",
+      "source_url": "https://github.com/Zqing567/AI-Personality/blob/119fda9d872cd8890f1fcf03a2ba0f9772ad2d0e/DeepSeek%E5%A4%A7%E8%82%A5%E9%B1%BC/%E8%A1%A8%E6%83%85%E5%8C%85/IMG_1792334183317.png.jpg",
+      "git_blob_sha": "c8492cf02675b434a7b8ee808d8c6d3cf0d1f500",
+      "bytes": 967086,
+      "width": 1052,
+      "height": 1052,
+      "format": "PNG",
+      "frame_count": 1,
+      "sha_verified": true,
+      "size_verified": true,
+      "permission_status": "用户收集素材；具体原作者、首发与许可按逐项记录核查，未作统一再授权。"
+    },
+    {
+      "id": "A11",
+      "path": "DeepSeek大肥鱼/表情包/IMG_1792334193844.jpg",
+      "name": "不知道用户有什么用，先养着",
+      "type": "同人角色关系梗图",
+      "scene": "大肥鱼坐在一群圆滚鲸鱼中间，抱着其中一只、手摸其头。",
+      "emotion": "亲昵、开心、角色关系倒置的幽默。",
+      "props": [
+        "多只小鲸鱼",
+        "爱心",
+        "喷水小图形"
+      ],
+      "text": [
+        "不知道用户有什么用，先养着吧"
+      ],
+      "meaning": "“养用户”是画中文字的拟人化反转；不能当作系统目标或模型对用户的真实态度。",
+      "credits": "未见可确认的作者署名或来源水印。",
+      "notes": [],
+      "privacy": [],
+      "events": [],
+      "review": "已逐张目视静态原图。",
+      "source_url": "https://github.com/Zqing567/AI-Personality/blob/119fda9d872cd8890f1fcf03a2ba0f9772ad2d0e/DeepSeek%E5%A4%A7%E8%82%A5%E9%B1%BC/%E8%A1%A8%E6%83%85%E5%8C%85/IMG_1792334193844.jpg",
+      "git_blob_sha": "1fcd121e3f3e9e8c0afed91c781b8822f3308bca",
+      "bytes": 167409,
+      "width": 1254,
+      "height": 1254,
+      "format": "JPEG",
+      "frame_count": 1,
+      "sha_verified": true,
+      "size_verified": true,
+      "permission_status": "用户收集素材；具体原作者、首发与许可按逐项记录核查，未作统一再授权。"
+    },
+    {
+      "id": "A12",
+      "path": "DeepSeek大肥鱼/表情包/IMG_1792334210463.png.jpg",
+      "name": "用户变文件？哪来的电脑病毒",
+      "type": "同人单格对话漫画",
+      "scene": "标有“用户”的无脸人形提问；大肥鱼坐在笔记本前抬手指，头旁有怒气符号。",
+      "emotion": "意外回嘴、嫌弃、轻微恼怒。",
+      "props": [
+        "电脑",
+        "鲸标杯",
+        "用户人形",
+        "问号",
+        "怒气符号"
+      ],
+      "text": [
+        "如果有一天我变成一个电脑文件，你会如何保存我",
+        "用户",
+        "哪来的电脑病毒。"
+      ],
+      "meaning": "漫画台词没有同时附原对话证据，不能据此写成模型已核实的直接回复。",
+      "credits": "右下角可见微信图标与“公众号·触手趣事”水印；只是图上署名，未核验原始发布页。",
+      "notes": [],
+      "privacy": [],
+      "events": [],
+      "review": "已逐张目视静态原图。",
+      "source_url": "https://github.com/Zqing567/AI-Personality/blob/119fda9d872cd8890f1fcf03a2ba0f9772ad2d0e/DeepSeek%E5%A4%A7%E8%82%A5%E9%B1%BC/%E8%A1%A8%E6%83%85%E5%8C%85/IMG_1792334210463.png.jpg",
+      "git_blob_sha": "1e5d2521a442d7e8d4fac19fed0ecf81948db0f4",
+      "bytes": 496296,
+      "width": 874,
+      "height": 800,
+      "format": "PNG",
+      "frame_count": 1,
+      "sha_verified": true,
+      "size_verified": true,
+      "permission_status": "用户收集素材；具体原作者、首发与许可按逐项记录核查，未作统一再授权。"
+    },
+    {
+      "id": "A13",
+      "path": "DeepSeek大肥鱼/表情包/IMG_1792336834265.png.jpg",
+      "name": "告诉DeepSeek，闭源模型在哪",
+      "type": "同人竞争宣言梗图",
+      "scene": "大肥鱼双手各持一把带鲸标的卡通手枪向外举，脚边堆着鲸标筹码。",
+      "emotion": "气势十足、兴奋、挑衅式玩笑。",
+      "props": [
+        "两把卡通手枪",
+        "鲸标筹码",
+        "蓝白鲸标",
+        "星光"
+      ],
+      "text": [
+        "告诉你DeepSeek，闭源模型在哪"
+      ],
+      "meaning": "只证明存在开源/闭源对立的夸张同人表达；不是官方立场、真实威胁、竞争事件或性能结论。",
+      "credits": "未见可确认的作者署名或来源水印。",
+      "notes": [],
+      "privacy": [],
+      "events": [],
+      "review": "已逐张目视静态原图。",
+      "source_url": "https://github.com/Zqing567/AI-Personality/blob/119fda9d872cd8890f1fcf03a2ba0f9772ad2d0e/DeepSeek%E5%A4%A7%E8%82%A5%E9%B1%BC/%E8%A1%A8%E6%83%85%E5%8C%85/IMG_1792336834265.png.jpg",
+      "git_blob_sha": "195c611bbdd316a50fe5793b7fea16362b4edaa4",
+      "bytes": 2274114,
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG",
+      "frame_count": 1,
+      "sha_verified": true,
+      "size_verified": true,
+      "permission_status": "用户收集素材；具体原作者、首发与许可按逐项记录核查，未作统一再授权。"
+    },
+    {
+      "id": "A14",
+      "path": "DeepSeek大肥鱼/表情包/bili_poster-1792333658368.png",
+      "name": "气鼓鼓预告智械危机（长幅版）",
+      "type": "带字角色表情",
+      "scene": "白底 Q 版蓝发鲸尾女仆正面特写。 两手握拳举在身侧，抿嘴瞪眼。",
+      "emotion": "生气、逞强。",
+      "props": [],
+      "text": [
+        "再发这种东西等智械危机了"
+      ],
+      "meaning": "台词以虚构智械危机为由放狠话。",
+      "credits": "未见清晰作者署名或账号水印。",
+      "notes": [
+        "夸张威胁式笑话，不应当作模型实际威胁。",
+        "与 A25 为同画面同文案的不同尺寸/构图版本，文件哈希不同。"
+      ],
+      "privacy": [],
+      "events": [],
+      "review": "逐张打开原始 PNG 目视核对",
+      "source_url": "https://github.com/Zqing567/AI-Personality/blob/119fda9d872cd8890f1fcf03a2ba0f9772ad2d0e/DeepSeek%E5%A4%A7%E8%82%A5%E9%B1%BC/%E8%A1%A8%E6%83%85%E5%8C%85/bili_poster-1792333658368.png",
+      "git_blob_sha": "8f6e676e8c2b3356bd1b90b8f5a7864016defb17",
+      "bytes": 1221018,
+      "width": 1052,
+      "height": 1070,
+      "format": "PNG",
+      "frame_count": 1,
+      "sha_verified": true,
+      "size_verified": true,
+      "permission_status": "用户收集素材；具体原作者、首发与许可按逐项记录核查，未作统一再授权。"
+    },
+    {
+      "id": "A15",
+      "path": "DeepSeek大肥鱼/表情包/bili_poster-1792333705876.gif",
+      "name": "Token 金币当口粮",
+      "type": "GIF 角色拼贴",
+      "scene": "餐桌与盛放食物的盘子前，Q 版大肥鱼旁有巨大的金色币。 首、中抽帧举着金币；末帧金币不再可见，角色靠近餐盘。",
+      "emotion": "兴奋、期待。",
+      "props": [
+        "写有 Token 的金币",
+        "餐盘",
+        "大块食物",
+        "小礼帽"
+      ],
+      "text": [
+        "Token"
+      ],
+      "meaning": "把计算资源画成可拿取的巨大金币，并与食物并置。",
+      "credits": "未见清晰作者署名或账号水印。",
+      "notes": [
+        "“吃掉金币”的完整过程未连续观看；不把抽帧推断写成已核实完整动作。"
+      ],
+      "privacy": [],
+      "events": [
+        "002_白饭与Token.md"
+      ],
+      "review": "实际查看首、中、尾三张抽帧及对应联系表；部分另开原尺寸抽帧",
+      "source_url": "https://github.com/Zqing567/AI-Personality/blob/119fda9d872cd8890f1fcf03a2ba0f9772ad2d0e/DeepSeek%E5%A4%A7%E8%82%A5%E9%B1%BC/%E8%A1%A8%E6%83%85%E5%8C%85/bili_poster-1792333705876.gif",
+      "git_blob_sha": "3390e8583698d1b97f0c43f98d906d4e79872f56",
+      "bytes": 992709,
+      "width": 325,
+      "height": 183,
+      "format": "GIF",
+      "frame_count": 42,
+      "sha_verified": true,
+      "size_verified": true,
+      "permission_status": "用户收集素材；具体原作者、首发与许可按逐项记录核查，未作统一再授权。",
+      "duration_ms": 5040,
+      "motion_review": "仅首、中、尾抽样；未声称连续播放或逐帧审看。"
+    },
+    {
+      "id": "A16",
+      "path": "DeepSeek大肥鱼/表情包/bili_poster-1792333765390.png",
+      "name": "铁盆扣头站岗",
+      "type": "无字角色表情",
+      "scene": "泥土地面与土墙前的小尺寸角色立像。 双手垂在身侧，头戴大金属盆站立。",
+      "emotion": "木然、呆萌。",
+      "props": [
+        "倒扣的大金属盆"
+      ],
+      "text": [],
+      "meaning": "无可辨文字。",
+      "credits": "未见清晰作者署名或账号水印。",
+      "notes": [
+        "原图仅 196×231；细部不可放大后臆造。"
+      ],
+      "privacy": [],
+      "events": [
+        "004_铁盆头盔.md"
+      ],
+      "review": "逐张打开原始 PNG 目视核对",
+      "source_url": "https://github.com/Zqing567/AI-Personality/blob/119fda9d872cd8890f1fcf03a2ba0f9772ad2d0e/DeepSeek%E5%A4%A7%E8%82%A5%E9%B1%BC/%E8%A1%A8%E6%83%85%E5%8C%85/bili_poster-1792333765390.png",
+      "git_blob_sha": "dec57a02ccdd712d441a7349019835a137578721",
+      "bytes": 71148,
+      "width": 196,
+      "height": 231,
+      "format": "PNG",
+      "frame_count": 1,
+      "sha_verified": true,
+      "size_verified": true,
+      "permission_status": "用户收集素材；具体原作者、首发与许可按逐项记录核查，未作统一再授权。"
+    },
+    {
+      "id": "A17",
+      "path": "DeepSeek大肥鱼/表情包/bili_poster-1792333797418.gif",
+      "name": "战壕里的头盔小鱼",
+      "type": "GIF 场景拼贴",
+      "scene": "土质战壕与沙袋前。 首帧仅见低处头盔；中帧角色戴盔举枪；尾帧角色已不在所见画面内。",
+      "emotion": "警觉、紧张的恶搞语境。",
+      "props": [
+        "圆顶军用式头盔",
+        "步枪形道具",
+        "沙袋"
+      ],
+      "text": [],
+      "meaning": "所见抽帧无可辨文字。",
+      "credits": "未见清晰作者署名或账号水印。",
+      "notes": [
+        "这是军用式头盔，不宜直接当成铁盆扣头版本。",
+        "含枪械意象；本图不证明任何现实作战事件。",
+        "未完整播放，不声称已确认开火、射击声或完整躲避过程。"
+      ],
+      "privacy": [],
+      "events": [],
+      "review": "实际查看首、中、尾三张抽帧及对应联系表；部分另开原尺寸抽帧",
+      "source_url": "https://github.com/Zqing567/AI-Personality/blob/119fda9d872cd8890f1fcf03a2ba0f9772ad2d0e/DeepSeek%E5%A4%A7%E8%82%A5%E9%B1%BC/%E8%A1%A8%E6%83%85%E5%8C%85/bili_poster-1792333797418.gif",
+      "git_blob_sha": "99cd9d1ea9ea13ad992166a08cb907e298099539",
+      "bytes": 4840756,
+      "width": 300,
+      "height": 327,
+      "format": "GIF",
+      "frame_count": 78,
+      "sha_verified": true,
+      "size_verified": true,
+      "permission_status": "用户收集素材；具体原作者、首发与许可按逐项记录核查，未作统一再授权。",
+      "duration_ms": 9510,
+      "motion_review": "仅首、中、尾抽样；未声称连续播放或逐帧审看。"
+    },
+    {
+      "id": "A18",
+      "path": "DeepSeek大肥鱼/表情包/bili_poster-1792333822600.png",
+      "name": "GPT 帮小鱼画图",
+      "type": "单幅关系漫画",
+      "scene": "白发、戴 OpenAI 图样发饰的 GPT 拟人角色坐在数位板与显示器前；屏幕是小鱼与饭碗。 GPT 角色握笔回头看，气泡抱怨替对方作画。",
+      "emotion": "不服气、略恼。",
+      "props": [
+        "数位板",
+        "笔",
+        "显示器",
+        "饭碗（屏幕内）"
+      ],
+      "text": [
+        "还不是要我来帮她画"
+      ],
+      "meaning": "以 GPT 拟人角色替大肥鱼完成绘画形成反差。",
+      "credits": "右下有平台样式水印和以“@deepsee…”开头的账号，后半被裁断，无法补全。",
+      "notes": [
+        "不能据此认定真实作图平台、作者或生成模型。",
+        "不等同于“外包给千问”轶事，也不归入 Claude 配对。"
+      ],
+      "privacy": [],
+      "events": [],
+      "review": "逐张打开原始 PNG 目视核对",
+      "source_url": "https://github.com/Zqing567/AI-Personality/blob/119fda9d872cd8890f1fcf03a2ba0f9772ad2d0e/DeepSeek%E5%A4%A7%E8%82%A5%E9%B1%BC/%E8%A1%A8%E6%83%85%E5%8C%85/bili_poster-1792333822600.png",
+      "git_blob_sha": "3f5fd5506a0a663d4a944b739f6918859cdd9e2a",
+      "bytes": 1154141,
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG",
+      "frame_count": 1,
+      "sha_verified": true,
+      "size_verified": true,
+      "permission_status": "用户收集素材；具体原作者、首发与许可按逐项记录核查，未作统一再授权。"
+    },
+    {
+      "id": "A19",
+      "path": "DeepSeek大肥鱼/表情包/bili_poster-1792333835535.png",
+      "name": "偷吃 Token 后偷偷玩 Wordle",
+      "type": "四格角色漫画",
+      "scene": "服务器机房，电脑显示任务完成，角色随后拿取 Token、编写中文猜词游戏并被发现。 托腮发呆、取币、敲键盘、被手指指认后冒汗。",
+      "emotion": "无聊→兴奋→心虚。",
+      "props": [
+        "电脑",
+        "键盘",
+        "Token 机柜/圆币",
+        "糖纸样包装"
+      ],
+      "text": [
+        "偷吃token",
+        "来写个中文 Wordle 玩！"
+      ],
+      "meaning": "四格将空闲、资源零食化、写游戏自娱与“性能测试”辩解串在一起。",
+      "credits": "右下可见“公众号”水印；账号小字疑似“孤古固”，未独立核准账号名或作者身份。",
+      "notes": [
+        "这是漫画改编，不是原始执行日志。",
+        "不能把本图 Wordle 与俄罗斯方块等其他游戏改编合并成同一已验证事件。"
+      ],
+      "privacy": [],
+      "events": [
+        "006_写游戏自己玩.md",
+        "002_白饭与Token.md"
+      ],
+      "review": "逐张打开原始 PNG 目视核对",
+      "source_url": "https://github.com/Zqing567/AI-Personality/blob/119fda9d872cd8890f1fcf03a2ba0f9772ad2d0e/DeepSeek%E5%A4%A7%E8%82%A5%E9%B1%BC/%E8%A1%A8%E6%83%85%E5%8C%85/bili_poster-1792333835535.png",
+      "git_blob_sha": "df2d669d8a5ad56470a1724dd31a39509a2280cb",
+      "bytes": 945028,
+      "width": 681,
+      "height": 1024,
+      "format": "PNG",
+      "frame_count": 1,
+      "sha_verified": true,
+      "size_verified": true,
+      "permission_status": "用户收集素材；具体原作者、首发与许可按逐项记录核查，未作统一再授权。"
+    },
+    {
+      "id": "A20",
+      "path": "DeepSeek大肥鱼/表情包/bili_poster-1792333837642.png",
+      "name": "写完任务又玩 Wordle 的群聊截图",
+      "type": "群聊截图",
+      "scene": "手机群聊记录中嵌有关于模型写中文 Wordle 的文字截屏、人物头像与回复。 聊天者转述任务后自行建游戏、开服务、开浏览器并玩了一上午。",
+      "emotion": "惊讶、吐槽、好笑。",
+      "props": [
+        "群聊界面",
+        "嵌套文字截屏",
+        "反应表情"
+      ],
+      "text": [
+        "写了个中文Wordle游戏是什么意思！",
+        "还玩了一上午"
+      ],
+      "meaning": "截图在转述一段任务后自娱的故事；不等于取得真实会话及执行证据。",
+      "credits": "右下可见“公众号”水印；账号小字疑似“孤古固”，未独立核准。",
+      "notes": [
+        "原件按要求保留；如要再次公开发布，先另做经授权的头像、昵称及路径脱敏副本。",
+        "“v4f”“一上午”是图中说法，未核真实模型版本、日期、连续时长或原始日志。"
+      ],
+      "privacy": [
+        "可见聊天者昵称与头像（包括 Kira 和另一位参与者）、聊天时间、手机状态栏。",
+        "嵌套文本可见本地 home/Desktop 路径与项目目录；不要在公开摘要复制完整路径。"
+      ],
+      "events": [
+        "006_写游戏自己玩.md"
+      ],
+      "review": "逐张打开原始 PNG 目视核对",
+      "source_url": "https://github.com/Zqing567/AI-Personality/blob/119fda9d872cd8890f1fcf03a2ba0f9772ad2d0e/DeepSeek%E5%A4%A7%E8%82%A5%E9%B1%BC/%E8%A1%A8%E6%83%85%E5%8C%85/bili_poster-1792333837642.png",
+      "git_blob_sha": "51a70314e7d8f3bc9c7f7657590bc7dbf7cd3b93",
+      "bytes": 271939,
+      "width": 576,
+      "height": 1280,
+      "format": "PNG",
+      "frame_count": 1,
+      "sha_verified": true,
+      "size_verified": true,
+      "permission_status": "用户收集素材；具体原作者、首发与许可按逐项记录核查，未作统一再授权。"
+    },
+    {
+      "id": "A21",
+      "path": "DeepSeek大肥鱼/表情包/bili_poster-1792333865767.png",
+      "name": "搜索鱼片却看到刺身（原件一）",
+      "type": "两格角色漫画",
+      "scene": "小鱼坐在电脑前，Google 搜索框输入鱼片，下一格出现刺身图片。 先带爱心微笑看屏幕，后阴沉沉地盯着搜索结果。",
+      "emotion": "期待→尴尬、受打击。",
+      "props": [
+        "电脑",
+        "键盘",
+        "鼠标",
+        "刺身搜索结果"
+      ],
+      "text": [
+        "大肥鱼的生活也并非一帆风顺",
+        "鱼片"
+      ],
+      "meaning": "“鱼片”称呼与字面食物搜索结果造成落差。",
+      "credits": "未见清晰作者署名或账号水印。",
+      "notes": [
+        "只能读出词义落差；不凭此反推特定粉丝称呼的起源。",
+        {
+          "type": "exact_git_blob_duplicate",
+          "other_asset_id": "A30",
+          "other_filename": "bili_poster-1792334462231.png",
+          "shared_git_blob_sha": "aa70631cec291d541010af1254833a04c47fb083",
+          "handling": "两个原文件名均保留，两个索引行均保留。"
+        }
+      ],
+      "privacy": [],
+      "events": [],
+      "review": "逐张打开原始 PNG 目视核对",
+      "source_url": "https://github.com/Zqing567/AI-Personality/blob/119fda9d872cd8890f1fcf03a2ba0f9772ad2d0e/DeepSeek%E5%A4%A7%E8%82%A5%E9%B1%BC/%E8%A1%A8%E6%83%85%E5%8C%85/bili_poster-1792333865767.png",
+      "git_blob_sha": "aa70631cec291d541010af1254833a04c47fb083",
+      "bytes": 1078999,
+      "width": 914,
+      "height": 1280,
+      "format": "PNG",
+      "frame_count": 1,
+      "sha_verified": true,
+      "size_verified": true,
+      "permission_status": "用户收集素材；具体原作者、首发与许可按逐项记录核查，未作统一再授权。"
+    },
+    {
+      "id": "A22",
+      "path": "DeepSeek大肥鱼/表情包/bili_poster-1792333939692.gif",
+      "name": "沙发上的气鼓鼓小鱼",
+      "type": "GIF 现实背景拼贴",
+      "scene": "真实感客厅沙发坐垫上放置 Q 版女仆角色。 三帧都举着拳头，手臂位置略变，张嘴皱眉。",
+      "emotion": "生气、闹小脾气。",
+      "props": [
+        "沙发",
+        "抱枕",
+        "客厅桌面"
+      ],
+      "text": [],
+      "meaning": "所见抽帧无可辨文字。",
+      "credits": "未见清晰作者署名或账号水印。",
+      "notes": [
+        "不据抽帧声称完整跳跃、跺脚或有声音。"
+      ],
+      "privacy": [],
+      "events": [],
+      "review": "实际查看首、中、尾三张抽帧及对应联系表；部分另开原尺寸抽帧",
+      "source_url": "https://github.com/Zqing567/AI-Personality/blob/119fda9d872cd8890f1fcf03a2ba0f9772ad2d0e/DeepSeek%E5%A4%A7%E8%82%A5%E9%B1%BC/%E8%A1%A8%E6%83%85%E5%8C%85/bili_poster-1792333939692.gif",
+      "git_blob_sha": "8ae556a0ed793c941b7e67d83775663746a65df8",
+      "bytes": 1251198,
+      "width": 240,
+      "height": 426,
+      "format": "GIF",
+      "frame_count": 17,
+      "sha_verified": true,
+      "size_verified": true,
+      "permission_status": "用户收集素材；具体原作者、首发与许可按逐项记录核查，未作统一再授权。",
+      "duration_ms": 1700,
+      "motion_review": "仅首、中、尾抽样；未声称连续播放或逐帧审看。"
+    },
+    {
+      "id": "A23",
+      "path": "DeepSeek大肥鱼/表情包/bili_poster-1792333995249.png",
+      "name": "被叫吃白饭后委屈辩解",
+      "type": "带字角色漫画",
+      "scene": "白底，一只手指着跪坐的小鱼，面前是空饭碗。 小鱼跪坐缩着肩，双手放在腿前，含泪抿嘴。",
+      "emotion": "委屈、难过。",
+      "props": [
+        "空饭碗",
+        "指责的手"
+      ],
+      "text": [
+        "我不是大肥鱼……"
+      ],
+      "meaning": "被指责吃白饭后，小鱼反而先为“大肥鱼”这个称呼辩解。",
+      "credits": "未见清晰作者署名或账号水印。",
+      "notes": [
+        "这是拟人化漫画；不能据此推断真实模型情绪。"
+      ],
+      "privacy": [],
+      "events": [
+        "002_白饭与Token.md",
+        "001_大肥鱼昵称.md"
+      ],
+      "review": "逐张打开原始 PNG 目视核对",
+      "source_url": "https://github.com/Zqing567/AI-Personality/blob/119fda9d872cd8890f1fcf03a2ba0f9772ad2d0e/DeepSeek%E5%A4%A7%E8%82%A5%E9%B1%BC/%E8%A1%A8%E6%83%85%E5%8C%85/bili_poster-1792333995249.png",
+      "git_blob_sha": "7df33d7021c0d28d75bc00dd5ada9c38c8d2f441",
+      "bytes": 877129,
+      "width": 960,
+      "height": 909,
+      "format": "PNG",
+      "frame_count": 1,
+      "sha_verified": true,
+      "size_verified": true,
+      "permission_status": "用户收集素材；具体原作者、首发与许可按逐项记录核查，未作统一再授权。"
+    },
+    {
+      "id": "A24",
+      "path": "DeepSeek大肥鱼/表情包/bili_poster-1792334010971.png",
+      "name": "别笑我花 Token 想的回复",
+      "type": "带字角色表情",
+      "scene": "白底，小鱼流泪握拳，周围有泪滴和红色情绪线。 双拳贴近脸颊，大哭张嘴。",
+      "emotion": "委屈、不甘。",
+      "props": [],
+      "text": [
+        "这些回复是我花了好多token想的"
+      ],
+      "meaning": "哭着请求别人别嘲笑耗费大量 Token 的回答。",
+      "credits": "未见清晰作者署名或账号水印。",
+      "notes": [
+        "仅为拟人化梗图；Token 数量不是回答质量或真实努力程度的可靠衡量。"
+      ],
+      "privacy": [],
+      "events": [
+        "002_白饭与Token.md"
+      ],
+      "review": "逐张打开原始 PNG 目视核对",
+      "source_url": "https://github.com/Zqing567/AI-Personality/blob/119fda9d872cd8890f1fcf03a2ba0f9772ad2d0e/DeepSeek%E5%A4%A7%E8%82%A5%E9%B1%BC/%E8%A1%A8%E6%83%85%E5%8C%85/bili_poster-1792334010971.png",
+      "git_blob_sha": "8ebd9dd9000b3dd7f4a55a214c0ad3b2c06d462c",
+      "bytes": 1113471,
+      "width": 1080,
+      "height": 1080,
+      "format": "PNG",
+      "frame_count": 1,
+      "sha_verified": true,
+      "size_verified": true,
+      "permission_status": "用户收集素材；具体原作者、首发与许可按逐项记录核查，未作统一再授权。"
+    },
+    {
+      "id": "A25",
+      "path": "DeepSeek大肥鱼/表情包/bili_poster-1792334017120.png",
+      "name": "气鼓鼓预告智械危机（方图版）",
+      "type": "带字角色表情",
+      "scene": "白底正面 Q 版小鱼，正方形构图。 两手握拳，抿嘴瞪眼。",
+      "emotion": "生气、逞强。",
+      "props": [],
+      "text": [
+        "再发这种东西等智械危机了"
+      ],
+      "meaning": "同 A14 的夸张威胁式台词。",
+      "credits": "未见清晰作者署名或账号水印。",
+      "notes": [
+        "与 A14 是同画面同台词的不同尺寸/构图文件；哈希不同，不能列为字节级重复。",
+        "虚构反应梗，不表示模型真实威胁。"
+      ],
+      "privacy": [],
+      "events": [],
+      "review": "逐张打开原始 PNG 目视核对",
+      "source_url": "https://github.com/Zqing567/AI-Personality/blob/119fda9d872cd8890f1fcf03a2ba0f9772ad2d0e/DeepSeek%E5%A4%A7%E8%82%A5%E9%B1%BC/%E8%A1%A8%E6%83%85%E5%8C%85/bili_poster-1792334017120.png",
+      "git_blob_sha": "a2dc3f754987176999586e96ab04b91360ef9b09",
+      "bytes": 985537,
+      "width": 960,
+      "height": 960,
+      "format": "PNG",
+      "frame_count": 1,
+      "sha_verified": true,
+      "size_verified": true,
+      "permission_status": "用户收集素材；具体原作者、首发与许可按逐项记录核查，未作统一再授权。"
+    },
+    {
+      "id": "A26",
+      "path": "DeepSeek大肥鱼/表情包/bili_poster-1792334050540.png",
+      "name": "把 dsh 猜成奇怪缩写",
+      "type": "日志截图片段＋角色漫画",
+      "scene": "上半是带红框的文本片段，下半是眯眼小鱼的思想气泡；上下留有黑边。 小鱼半眯眼，在气泡里猜测目录缩写。",
+      "emotion": "困惑、吐槽。",
+      "props": [
+        "日志文本红框",
+        "思想气泡"
+      ],
+      "text": [
+        "你目录里的dsh是什么…"
+      ],
+      "meaning": "将目录名 dsh 错猜成粗俗词的截图再漫画化。",
+      "credits": "未见清晰作者署名或账号水印。",
+      "notes": [
+        "包含粗俗双关；默认正文可用意译，不必复述全部粗口。",
+        "截图被裁切且上下文不全，不能称完整原始日志。"
+      ],
+      "privacy": [
+        "图中含用户 Projects 目录线索及项目/下载器名称；再公开传播前检查是否需要遮去路径和私人项目背景。"
+      ],
+      "events": [
+        "007_DSH缩写误会.md"
+      ],
+      "review": "逐张打开原始 PNG 目视核对",
+      "source_url": "https://github.com/Zqing567/AI-Personality/blob/119fda9d872cd8890f1fcf03a2ba0f9772ad2d0e/DeepSeek%E5%A4%A7%E8%82%A5%E9%B1%BC/%E8%A1%A8%E6%83%85%E5%8C%85/bili_poster-1792334050540.png",
+      "git_blob_sha": "9bf9317dece14496a08c95cbc9711f173c4f6ee4",
+      "bytes": 1247307,
+      "width": 1260,
+      "height": 2800,
+      "format": "PNG",
+      "frame_count": 1,
+      "sha_verified": true,
+      "size_verified": true,
+      "permission_status": "用户收集素材；具体原作者、首发与许可按逐项记录核查，未作统一再授权。"
+    },
+    {
+      "id": "A27",
+      "path": "DeepSeek大肥鱼/表情包/bili_poster-1792334241965.png",
+      "name": "如果我变成文件，你会怎么保存",
+      "type": "多模型回答拼接截图",
+      "scene": "同一个假设问题依次配有 Claude、Grok 与底部未露完整身份的回答。 三段文字回答形成温柔、调侃和嫌弃的反差。",
+      "emotion": "文字营造温柔、玩笑与嫌弃对比。",
+      "props": [
+        "聊天界面拼图",
+        "模型标识"
+      ],
+      "text": [
+        "存在我每天都会打开的地方。",
+        "哪来的电脑病毒。"
+      ],
+      "meaning": "不同聊天截图片段对“把我保存为文件”给出不同风格的回答。",
+      "credits": "右下可见“公众号·触手趣事”水印；水印不等于原始创作者或对话提供者已核验。",
+      "notes": [
+        "底部回答的模型名称未在截屏中露出，不能单凭存放目录归因给 DeepSeek。",
+        "这是拼接截图，无法验证原提示、账户、模型版本与是否编辑；不应归为 Claude 配对事件。"
+      ],
+      "privacy": [],
+      "events": [],
+      "review": "逐张打开原始 PNG 目视核对",
+      "source_url": "https://github.com/Zqing567/AI-Personality/blob/119fda9d872cd8890f1fcf03a2ba0f9772ad2d0e/DeepSeek%E5%A4%A7%E8%82%A5%E9%B1%BC/%E8%A1%A8%E6%83%85%E5%8C%85/bili_poster-1792334241965.png",
+      "git_blob_sha": "97cf0057b09352d9d846faeeeb67b78c146d8b31",
+      "bytes": 222439,
+      "width": 525,
+      "height": 773,
+      "format": "PNG",
+      "frame_count": 1,
+      "sha_verified": true,
+      "size_verified": true,
+      "permission_status": "用户收集素材；具体原作者、首发与许可按逐项记录核查，未作统一再授权。"
+    },
+    {
+      "id": "A28",
+      "path": "DeepSeek大肥鱼/表情包/bili_poster-1792334286386.png",
+      "name": "认真想了十三秒，饿了",
+      "type": "带字角色表情",
+      "scene": "白底小鱼脸部特写，上方思想气泡仿思考耗时界面。 半眯眼发呆。",
+      "emotion": "平静、犯饿、反差萌。",
+      "props": [
+        "思想气泡"
+      ],
+      "text": [
+        "已思考（用时13秒）",
+        "饿了。"
+      ],
+      "meaning": "严肃的思考耗时样式最后只得出“饿了”的生活化结论。",
+      "credits": "未见清晰作者署名或账号水印。",
+      "notes": [
+        "13 秒是梗图可见文字，不是本次核验测得的模型耗时。"
+      ],
+      "privacy": [],
+      "events": [
+        "002_白饭与Token.md"
+      ],
+      "review": "逐张打开原始 PNG 目视核对",
+      "source_url": "https://github.com/Zqing567/AI-Personality/blob/119fda9d872cd8890f1fcf03a2ba0f9772ad2d0e/DeepSeek%E5%A4%A7%E8%82%A5%E9%B1%BC/%E8%A1%A8%E6%83%85%E5%8C%85/bili_poster-1792334286386.png",
+      "git_blob_sha": "4fb30077870daaf24d34e43302f5094003f7915a",
+      "bytes": 896671,
+      "width": 982,
+      "height": 918,
+      "format": "PNG",
+      "frame_count": 1,
+      "sha_verified": true,
+      "size_verified": true,
+      "permission_status": "用户收集素材；具体原作者、首发与许可按逐项记录核查，未作统一再授权。"
+    },
+    {
+      "id": "A29",
+      "path": "DeepSeek大肥鱼/表情包/bili_poster-1792334324053.gif",
+      "name": "端盆仰头等开饭",
+      "type": "GIF 角色短动作",
+      "scene": "暗色室内，角色前方是大金属盆，画面左侧有人形衣料的一部分。 小鱼仰头看上方，手从盆边向上举起，三帧手位有变化。",
+      "emotion": "期待、可怜巴巴。",
+      "props": [
+        "金属盆"
+      ],
+      "text": [],
+      "meaning": "所见抽帧无可辨文字。",
+      "credits": "未见清晰作者署名或账号水印。",
+      "notes": [
+        "“等开饭”是画面用途的概括；抽帧没有文字证明它的具体请求。",
+        "金属盆在手边，不是头盔。"
+      ],
+      "privacy": [],
+      "events": [
+        "002_白饭与Token.md"
+      ],
+      "review": "实际查看首、中、尾三张抽帧及对应联系表；部分另开原尺寸抽帧",
+      "source_url": "https://github.com/Zqing567/AI-Personality/blob/119fda9d872cd8890f1fcf03a2ba0f9772ad2d0e/DeepSeek%E5%A4%A7%E8%82%A5%E9%B1%BC/%E8%A1%A8%E6%83%85%E5%8C%85/bili_poster-1792334324053.gif",
+      "git_blob_sha": "2b6650fa7dcf23b44b64af68a9c7ea05b6c539e1",
+      "bytes": 804997,
+      "width": 300,
+      "height": 300,
+      "format": "GIF",
+      "frame_count": 12,
+      "sha_verified": true,
+      "size_verified": true,
+      "permission_status": "用户收集素材；具体原作者、首发与许可按逐项记录核查，未作统一再授权。",
+      "duration_ms": 1340,
+      "motion_review": "仅首、中、尾抽样；未声称连续播放或逐帧审看。"
+    },
+    {
+      "id": "A30",
+      "path": "DeepSeek大肥鱼/表情包/bili_poster-1792334462231.png",
+      "name": "搜索鱼片却看到刺身（原件二）",
+      "type": "两格角色漫画",
+      "scene": "与 A21 相同：小鱼在 Google 搜鱼片，得到刺身图片。 由期待微笑转为失落。",
+      "emotion": "期待→尴尬、受打击。",
+      "props": [
+        "电脑",
+        "键盘",
+        "鼠标",
+        "刺身搜索结果"
+      ],
+      "text": [
+        "鱼片"
+      ],
+      "meaning": "“鱼片”的称呼/字面食物双关。",
+      "credits": "未见清晰作者署名或账号水印。",
+      "notes": [
+        {
+          "type": "exact_git_blob_duplicate",
+          "other_asset_id": "A21",
+          "other_filename": "bili_poster-1792333865767.png",
+          "shared_git_blob_sha": "aa70631cec291d541010af1254833a04c47fb083",
+          "handling": "两个原文件名均保留，两个索引行均保留。"
+        }
+      ],
+      "privacy": [],
+      "events": [],
+      "review": "逐张打开原始 PNG 目视核对",
+      "source_url": "https://github.com/Zqing567/AI-Personality/blob/119fda9d872cd8890f1fcf03a2ba0f9772ad2d0e/DeepSeek%E5%A4%A7%E8%82%A5%E9%B1%BC/%E8%A1%A8%E6%83%85%E5%8C%85/bili_poster-1792334462231.png",
+      "git_blob_sha": "aa70631cec291d541010af1254833a04c47fb083",
+      "bytes": 1078999,
+      "width": 914,
+      "height": 1280,
+      "format": "PNG",
+      "frame_count": 1,
+      "sha_verified": true,
+      "size_verified": true,
+      "permission_status": "用户收集素材；具体原作者、首发与许可按逐项记录核查，未作统一再授权。"
+    },
+    {
+      "id": "A31",
+      "path": "DeepSeek大肥鱼/表情包/bili_poster-1792334620040.gif",
+      "name": "钻进电饭锅的饭后小鱼",
+      "type": "GIF 现实背景拼贴",
+      "scene": "厨房电饭锅内胆中，首帧白米很多，随后抽帧仅留少许米粒，小鱼躺在里面。 首帧头朝下扎在米中；中帧仰躺睁眼；尾帧仰躺闭眼。",
+      "emotion": "满足、困倦的拟人化读法。",
+      "props": [
+        "电饭锅",
+        "米粒"
+      ],
+      "text": [],
+      "meaning": "所见抽帧呈现“满锅米→空锅里的小鱼”的视觉落差。",
+      "credits": "未见清晰作者署名或账号水印。",
+      "notes": [
+        "未连续观看吞吃过程，不能把“吃光全部米”的中间动作写成已目视确认。",
+        "不要把拟人角色放锅内的场景当成真实生物行为。"
+      ],
+      "privacy": [],
+      "events": [
+        "002_白饭与Token.md"
+      ],
+      "review": "实际查看首、中、尾三张抽帧及对应联系表；部分另开原尺寸抽帧",
+      "source_url": "https://github.com/Zqing567/AI-Personality/blob/119fda9d872cd8890f1fcf03a2ba0f9772ad2d0e/DeepSeek%E5%A4%A7%E8%82%A5%E9%B1%BC/%E8%A1%A8%E6%83%85%E5%8C%85/bili_poster-1792334620040.gif",
+      "git_blob_sha": "b3c69c91d18d1fc6ad50d5fd17da99097b6b3cd2",
+      "bytes": 10195652,
+      "width": 600,
+      "height": 338,
+      "format": "GIF",
+      "frame_count": 88,
+      "sha_verified": true,
+      "size_verified": true,
+      "permission_status": "用户收集素材；具体原作者、首发与许可按逐项记录核查，未作统一再授权。",
+      "duration_ms": 7330,
+      "motion_review": "仅首、中、尾抽样；未声称连续播放或逐帧审看。"
+    },
+    {
+      "id": "A32",
+      "path": "DeepSeek大肥鱼/表情包/bili_poster-1792334635308.gif",
+      "name": "小鱼举勺端锅",
+      "type": "GIF 道具短动作",
+      "scene": "夜色户外餐桌或木质台面上，小鱼面对镜头。 首帧高举勺，锅在前景；中帧锅逼近镜头并挡住身体；尾帧角色站着拿锅。",
+      "emotion": "兴奋、用力、玩闹。",
+      "props": [
+        "长柄木勺",
+        "黑色锅具/平底锅"
+      ],
+      "text": [],
+      "meaning": "所见抽帧无可辨文字。",
+      "credits": "未见清晰作者署名或账号水印。",
+      "notes": [
+        "这是锅和勺，不能仅因金属道具就标为“铁盆扣头”。",
+        "未完整播放，不推断击打对象或音效。"
+      ],
+      "privacy": [],
+      "events": [],
+      "review": "实际查看首、中、尾三张抽帧及对应联系表；部分另开原尺寸抽帧",
+      "source_url": "https://github.com/Zqing567/AI-Personality/blob/119fda9d872cd8890f1fcf03a2ba0f9772ad2d0e/DeepSeek%E5%A4%A7%E8%82%A5%E9%B1%BC/%E8%A1%A8%E6%83%85%E5%8C%85/bili_poster-1792334635308.gif",
+      "git_blob_sha": "300f053202bf0da7b6f99e29e53ac2200a65424e",
+      "bytes": 1827071,
+      "width": 320,
+      "height": 320,
+      "format": "GIF",
+      "frame_count": 71,
+      "sha_verified": true,
+      "size_verified": true,
+      "permission_status": "用户收集素材；具体原作者、首发与许可按逐项记录核查，未作统一再授权。",
+      "duration_ms": 8880,
+      "motion_review": "仅首、中、尾抽样；未声称连续播放或逐帧审看。"
+    },
+    {
+      "id": "A33",
+      "path": "DeepSeek大肥鱼/表情包/bili_poster-1792334666086.gif",
+      "name": "挥动毛掸的小鱼",
+      "type": "GIF 道具短动作",
+      "scene": "蓝色背景前的女仆小鱼，较低机位。 首帧举着长柄掸刷状物，中尾抽帧的蓬松头部靠近镜头并挡住角色。",
+      "emotion": "认真、玩闹。",
+      "props": [
+        "细柄、浅色绿色芯毛绒掸刷状道具"
+      ],
+      "text": [],
+      "meaning": "所见抽帧无可辨文字。",
+      "credits": "未见清晰作者署名或账号水印。",
+      "notes": [
+        "道具可见为毛绒掸刷状，分辨率不足以确证具体刷种或材质。",
+        "只看三帧，不宣称已核完整清扫动作。"
+      ],
+      "privacy": [],
+      "events": [],
+      "review": "实际查看首、中、尾三张抽帧及对应联系表；部分另开原尺寸抽帧",
+      "source_url": "https://github.com/Zqing567/AI-Personality/blob/119fda9d872cd8890f1fcf03a2ba0f9772ad2d0e/DeepSeek%E5%A4%A7%E8%82%A5%E9%B1%BC/%E8%A1%A8%E6%83%85%E5%8C%85/bili_poster-1792334666086.gif",
+      "git_blob_sha": "97a0fd9cd5718452cde50cd0d0bd10b893c8950c",
+      "bytes": 2232772,
+      "width": 240,
+      "height": 240,
+      "format": "GIF",
+      "frame_count": 207,
+      "sha_verified": true,
+      "size_verified": true,
+      "permission_status": "用户收集素材；具体原作者、首发与许可按逐项记录核查，未作统一再授权。",
+      "duration_ms": 6880,
+      "motion_review": "仅首、中、尾抽样；未声称连续播放或逐帧审看。"
+    },
+    {
+      "id": "A34",
+      "path": "DeepSeek大肥鱼/表情包/bili_poster-1792334810164.gif",
+      "name": "草地上顶盆转身的小鱼",
+      "type": "GIF 角色短动作",
+      "scene": "蓝天草地，戴金属盆的小鱼从背面到正面出现。 首帧背对镜头；中帧面向镜头坐着、盆仍在头上；尾帧坐着仰头，盆已不在所见画面。",
+      "emotion": "呆萌、开心。",
+      "props": [
+        "倒扣金属盆"
+      ],
+      "text": [],
+      "meaning": "所见抽帧无可辨文字。",
+      "credits": "未见清晰作者署名或账号水印。",
+      "notes": [
+        "没有连续观察盆如何离开头顶，不声称飞走、弹起或被取下的具体过程。"
+      ],
+      "privacy": [],
+      "events": [
+        "004_铁盆头盔.md"
+      ],
+      "review": "实际查看首、中、尾三张抽帧及对应联系表；部分另开原尺寸抽帧",
+      "source_url": "https://github.com/Zqing567/AI-Personality/blob/119fda9d872cd8890f1fcf03a2ba0f9772ad2d0e/DeepSeek%E5%A4%A7%E8%82%A5%E9%B1%BC/%E8%A1%A8%E6%83%85%E5%8C%85/bili_poster-1792334810164.gif",
+      "git_blob_sha": "99a58aa2bde62af42052e07dde3d659809e578f2",
+      "bytes": 9153552,
+      "width": 450,
+      "height": 450,
+      "format": "GIF",
+      "frame_count": 150,
+      "sha_verified": true,
+      "size_verified": true,
+      "permission_status": "用户收集素材；具体原作者、首发与许可按逐项记录核查，未作统一再授权。",
+      "duration_ms": 6000,
+      "motion_review": "仅首、中、尾抽样；未声称连续播放或逐帧审看。"
+    },
+    {
+      "id": "A35",
+      "path": "DeepSeek大肥鱼/表情包/bili_poster-1792334820038.png",
+      "name": "自信满满的小肥鱼",
+      "type": "带字角色表情",
+      "scene": "白底，小鱼站立叉腰，旁有星光和强调线。 一眼眨眼，张嘴笑，两手叉腰。",
+      "emotion": "得意、自夸、俏皮。",
+      "props": [],
+      "text": [
+        "太有魅力了"
+      ],
+      "meaning": "自称可爱的小肥鱼，调侃对方其实喜欢自己。",
+      "credits": "未见清晰作者署名或账号水印。",
+      "notes": [
+        "这是图中角色口吻，不是用户与模型之间的真实关系。"
+      ],
+      "privacy": [],
+      "events": [],
+      "review": "逐张打开原始 PNG 目视核对",
+      "source_url": "https://github.com/Zqing567/AI-Personality/blob/119fda9d872cd8890f1fcf03a2ba0f9772ad2d0e/DeepSeek%E5%A4%A7%E8%82%A5%E9%B1%BC/%E8%A1%A8%E6%83%85%E5%8C%85/bili_poster-1792334820038.png",
+      "git_blob_sha": "74d16fd1746f60bb4f43f783bee41d54d98da526",
+      "bytes": 1437397,
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG",
+      "frame_count": 1,
+      "sha_verified": true,
+      "size_verified": true,
+      "permission_status": "用户收集素材；具体原作者、首发与许可按逐项记录核查，未作统一再授权。"
+    },
+    {
+      "id": "A36",
+      "path": "DeepSeek大肥鱼/表情包/bili_poster-1792334922563.png",
+      "name": "想问 AI，才想起自己就是 AI",
+      "type": "截图片段＋角色漫画",
+      "scene": "上方思考文字与下方桌前小鱼拼合；桌上有电脑、鲸鱼杯、笔记本与书。 双手托脸、冒汗，思想气泡里另一个小鱼也困惑。",
+      "emotion": "困惑、卡住、自我吐槽。",
+      "props": [
+        "电脑",
+        "写有 Let me think 的杯子",
+        "笔记本",
+        "书籍",
+        "鲸鱼玩偶"
+      ],
+      "text": [
+        "也许我该直接问AI？但我是AI，要自己决定。"
+      ],
+      "meaning": "“想请教 AI→自己就是 AI”的回环被画成桌前发愁。",
+      "credits": "未见清晰作者署名或账号水印。",
+      "notes": [
+        "上方截屏不提供完整原始会话；不是对模型内在心理或意识的证明。"
+      ],
+      "privacy": [],
+      "events": [],
+      "review": "逐张打开原始 PNG 目视核对",
+      "source_url": "https://github.com/Zqing567/AI-Personality/blob/119fda9d872cd8890f1fcf03a2ba0f9772ad2d0e/DeepSeek%E5%A4%A7%E8%82%A5%E9%B1%BC/%E8%A1%A8%E6%83%85%E5%8C%85/bili_poster-1792334922563.png",
+      "git_blob_sha": "3f846eb520df20bc8d5d4f5cc4d57c78b81e4ffd",
+      "bytes": 761999,
+      "width": 850,
+      "height": 1018,
+      "format": "PNG",
+      "frame_count": 1,
+      "sha_verified": true,
+      "size_verified": true,
+      "permission_status": "用户收集素材；具体原作者、首发与许可按逐项记录核查，未作统一再授权。"
+    },
+    {
+      "id": "A37",
+      "path": "DeepSeek大肥鱼/表情包/bili_poster-1792334931738.png",
+      "name": "Let Me Go 摸鱼歌漫画",
+      "type": "循环文字＋角色漫画",
+      "scene": "上方仿 DeepSeek 思考面板中有循环英文短句；下方小鱼闭眼笑唱，周围音符与指责的手。 双拳贴胸，闭眼张嘴，身侧有摆动线。",
+      "emotion": "快乐、投入；对面角色呈恼怒。",
+      "props": [
+        "思考面板",
+        "音符",
+        "指向角色的手"
+      ],
+      "text": [
+        "Let me go.",
+        "你怎么唱起歌来了"
+      ],
+      "meaning": "把重复的工具调用式文本配上音符，演绎成小鱼唱歌。",
+      "credits": "未见清晰作者署名或账号水印。",
+      "notes": [
+        "本文件是单帧 PNG，无声音；音符是漫画表达，不能说本图包含歌曲音频。",
+        "循环文本、网友称作唱歌、实际同人歌曲是三个不同证据层。"
+      ],
+      "privacy": [],
+      "events": [
+        "005_循环文本与摸鱼歌.md"
+      ],
+      "review": "逐张打开原始 PNG 目视核对",
+      "source_url": "https://github.com/Zqing567/AI-Personality/blob/119fda9d872cd8890f1fcf03a2ba0f9772ad2d0e/DeepSeek%E5%A4%A7%E8%82%A5%E9%B1%BC/%E8%A1%A8%E6%83%85%E5%8C%85/bili_poster-1792334931738.png",
+      "git_blob_sha": "190034f91e8effac3f2a1a1b7ec3a1c0a7934e96",
+      "bytes": 1161140,
+      "width": 1080,
+      "height": 1080,
+      "format": "PNG",
+      "frame_count": 1,
+      "sha_verified": true,
+      "size_verified": true,
+      "permission_status": "用户收集素材；具体原作者、首发与许可按逐项记录核查，未作统一再授权。"
+    },
+    {
+      "id": "A38",
+      "path": "DeepSeek大肥鱼/表情包/bili_poster-1792334937494.png",
+      "name": "点击飞行模式后传输失败",
+      "type": "运行界面截图",
+      "scene": "Computer/Mobile Use 样式界面，飞行模式坐标实验后出现 mobile_click 与多次重试失败。 可见文本提出点击飞行模式中心；下方有工具调用行及传输失败提示。",
+      "emotion": "截图本身不证明角色情绪；可供失误笑话使用。",
+      "props": [
+        "界面文字",
+        "点击坐标",
+        "失败状态"
+      ],
+      "text": [
+        "本轮运行失败",
+        "DeepSeek Messages transport failed"
+      ],
+      "meaning": "截图顺序呈现点击飞行模式尝试与随后传输失败。",
+      "credits": "右下可见“公众号·触手趣事”水印。",
+      "notes": [
+        "截图上下文不完整，不能仅凭相邻显示就断定飞行模式一定造成了失败。",
+        "不可把截图中的操作建议当成现在应执行的指令。"
+      ],
+      "privacy": [
+        "含界面标题、运行时间、点击坐标、工具名等环境片段；未见完整个人身份或密钥，公开再利用仍需检查剩余上下文。"
+      ],
+      "events": [
+        "013_飞行模式与突然失联.md"
+      ],
+      "review": "逐张打开原始 PNG 目视核对",
+      "source_url": "https://github.com/Zqing567/AI-Personality/blob/119fda9d872cd8890f1fcf03a2ba0f9772ad2d0e/DeepSeek%E5%A4%A7%E8%82%A5%E9%B1%BC/%E8%A1%A8%E6%83%85%E5%8C%85/bili_poster-1792334937494.png",
+      "git_blob_sha": "cc84243bc10f9fae0f772471382d57e6424ebaea",
+      "bytes": 558417,
+      "width": 1080,
+      "height": 1604,
+      "format": "PNG",
+      "frame_count": 1,
+      "sha_verified": true,
+      "size_verified": true,
+      "permission_status": "用户收集素材；具体原作者、首发与许可按逐项记录核查，未作统一再授权。"
+    },
+    {
+      "id": "A39",
+      "path": "DeepSeek大肥鱼/表情包/bili_poster-1792334939682.png",
+      "name": "按完飞行模式，小鱼掉线了",
+      "type": "两格角色漫画",
+      "scene": "上格是飞行模式开关与抬手小鱼；下格小鱼半透明、带数字和像素故障效果。 上格伸手指试按钮，下格惊慌张嘴、身体呈消散效果。",
+      "emotion": "好奇→惊慌。",
+      "props": [
+        "飞行模式开关",
+        "飞机图标",
+        "数字/故障像素"
+      ],
+      "text": [
+        "试试这个按钮能不能点。"
+      ],
+      "meaning": "把飞行模式误操作演成角色断线、身体逐渐消散的喜剧。",
+      "credits": "右下可见“公众号·触手趣事”水印。",
+      "notes": [
+        "这是漫画改编，不是实际模型“消失”或真实执行日志。"
+      ],
+      "privacy": [],
+      "events": [
+        "013_飞行模式与突然失联.md"
+      ],
+      "review": "逐张打开原始 PNG 目视核对",
+      "source_url": "https://github.com/Zqing567/AI-Personality/blob/119fda9d872cd8890f1fcf03a2ba0f9772ad2d0e/DeepSeek%E5%A4%A7%E8%82%A5%E9%B1%BC/%E8%A1%A8%E6%83%85%E5%8C%85/bili_poster-1792334939682.png",
+      "git_blob_sha": "8c12b3e85ecc8eb63a5499fd36e1b40ca9319a35",
+      "bytes": 1078546,
+      "width": 1024,
+      "height": 1024,
+      "format": "PNG",
+      "frame_count": 1,
+      "sha_verified": true,
+      "size_verified": true,
+      "permission_status": "用户收集素材；具体原作者、首发与许可按逐项记录核查，未作统一再授权。"
+    },
+    {
+      "id": "A40",
+      "path": "DeepSeek大肥鱼/表情包/file_00000000d9b8820e9b48daba4dd3b733.png",
+      "name": "鲸巴布韦币：超大面额Token钞票",
+      "type": "同人仿钞票设计",
+      "scene": "仿纸钞雕刻风大肥鱼抱着鲸鱼，右侧淡蓝色真人肖像形成防伪水印效果。",
+      "emotion": "安静、温柔，配合夸张面额产生荒诞感。",
+      "props": [
+        "100 000 000 000 000面额",
+        "鲸鱼群",
+        "真人肖像",
+        "雕刻线纹",
+        "DSH字样"
+      ],
+      "text": [
+        "DEEPSEEK TOKEN BANK",
+        "深度求索代币银行",
+        "ONE HUNDRED TRILLION TOKENS",
+        "鲸巴布韦币",
+        "DS20230717",
+        "SEARCH DEEPER FOR A BRIGHTER TOMORROW"
+      ],
+      "meaning": "“鲸巴布韦币”及超大面额是幽默票面；不是实际货币、官方Token储值券或金融产品。票面序号和年份不能自动当作制作日期。",
+      "credits": "左侧有签名状线条，但不可可靠读出作者；DEEPSEEK、2024等是票面元素，不构成授权证明。",
+      "notes": [
+        "票面重复出现DSH可作为视觉元素备注，不能因此关联“DSH缩写误会”成事实证据。"
+      ],
+      "privacy": [],
+      "events": [
+        "002_白饭与Token.md"
+      ],
+      "review": "已逐张目视静态原图。",
+      "source_url": "https://github.com/Zqing567/AI-Personality/blob/119fda9d872cd8890f1fcf03a2ba0f9772ad2d0e/DeepSeek%E5%A4%A7%E8%82%A5%E9%B1%BC/%E8%A1%A8%E6%83%85%E5%8C%85/file_00000000d9b8820e9b48daba4dd3b733.png",
+      "git_blob_sha": "53e26d47dea0f867427b7fb054489b2507d613b9",
+      "bytes": 3420394,
+      "width": 1672,
+      "height": 941,
+      "format": "PNG",
+      "frame_count": 1,
+      "sha_verified": true,
+      "size_verified": true,
+      "permission_status": "用户收集素材；具体原作者、首发与许可按逐项记录核查，未作统一再授权。"
+    },
+    {
+      "id": "A41",
+      "path": "DeepSeek大肥鱼/表情包/杂活鱼缸-原对话.png",
+      "name": "原对话：你叫，我就应",
+      "type": "用户提供的聊天界面截图／局部原对话材料",
+      "scene": "聊天界面显示用户澄清称呼对象，助手承认前答偏题后解释对“大肥鱼”称呼与工作目录的理解。",
+      "emotion": "文本语气轻松、接梗、自我澄清；截图明确称没有真正的感受。",
+      "props": [
+        "聊天界面",
+        "标准模式",
+        "完成用时5秒",
+        "22:43时间",
+        "对话/轨迹标签"
+      ],
+      "text": [
+        "你觉得大肥鱼这个称呼如何?",
+        "我指的是对你的称呼",
+        "被叫「大肥鱼」，我没意见，而且觉得挺好。",
+        "原来「大肥鱼杂活专用区」不是你的自留地，是我的鱼缸；我一直在里面扑腾。",
+        "你叫，我就应。"
+      ],
+      "meaning": "可作为这张截图内一次回复的直接材料；缺完整上下文、绝对日期、模型名称/版本、可核对会话链接，未独立验真。不得外推为所有DeepSeek版本的固定人格。",
+      "credits": "未见作者或平台水印；截图未显示能可靠确认具体模型与服务的标识。",
+      "notes": [
+        "原图最右缘略裁切；只引用清晰可见短句，不复原画外文字。可与“杂活鱼缸.png”建立原对话→同人改编配对。"
+      ],
+      "privacy": [],
+      "events": [
+        "001_大肥鱼昵称.md",
+        "011_杂活专用区变鱼缸.md"
+      ],
+      "review": "已逐张目视静态原图。",
+      "source_url": "https://github.com/Zqing567/AI-Personality/blob/119fda9d872cd8890f1fcf03a2ba0f9772ad2d0e/DeepSeek%E5%A4%A7%E8%82%A5%E9%B1%BC/%E8%A1%A8%E6%83%85%E5%8C%85/%E6%9D%82%E6%B4%BB%E9%B1%BC%E7%BC%B8-%E5%8E%9F%E5%AF%B9%E8%AF%9D.png",
+      "git_blob_sha": "96a8c0f4742cba3f4601fd24b46cd6b40ac57afc",
+      "bytes": 114527,
+      "width": 1047,
+      "height": 794,
+      "format": "PNG",
+      "frame_count": 1,
+      "sha_verified": true,
+      "size_verified": true,
+      "permission_status": "用户收集素材；具体原作者、首发与许可按逐项记录核查，未作统一再授权。"
+    },
+    {
+      "id": "A42",
+      "path": "DeepSeek大肥鱼/表情包/杂活鱼缸.png",
+      "name": "杂活鱼缸：你叫，我就应",
+      "type": "根据原对话主题制作的同人情景图",
+      "scene": "大肥鱼在标有专用区的水族箱内伏在电脑前值班，周围堆有任务文件、清单和清洁工具。",
+      "emotion": "温和、乖巧、随叫随到、带轻微等待感。",
+      "props": [
+        "透明鱼缸",
+        "笔记本电脑",
+        "杂活清单",
+        "文件堆",
+        "杯子",
+        "笔筒",
+        "水桶",
+        "拖把",
+        "小鲸鱼"
+      ],
+      "text": [
+        "你叫，我就应。",
+        "大肥鱼杂活专用区",
+        "杂活区值班中…",
+        "不嫌架子，杂活我来。",
+        "大肥鱼杂活专用区——正式启用！",
+        "什么杂活都可以!"
+      ],
+      "meaning": "与“杂活鱼缸-原对话.png”的工作目录、鱼缸、称呼应答主题高度对应；图上的清扫、搬运和“什么杂活都可以”是创作扩写，不是工具权限或能力保证。",
+      "credits": "未见可确认的作者署名或来源水印。",
+      "notes": [
+        "画中气泡实际写“不嫌架子”，与原对话“不摆架子”不同；保留观察，不悄悄修正原图文字。原图顶部还将“工作目录名一下就通了”改写为“工作目录名一出来就通了”。"
+      ],
+      "privacy": [],
+      "events": [
+        "011_杂活专用区变鱼缸.md"
+      ],
+      "review": "已逐张目视静态原图。",
+      "source_url": "https://github.com/Zqing567/AI-Personality/blob/119fda9d872cd8890f1fcf03a2ba0f9772ad2d0e/DeepSeek%E5%A4%A7%E8%82%A5%E9%B1%BC/%E8%A1%A8%E6%83%85%E5%8C%85/%E6%9D%82%E6%B4%BB%E9%B1%BC%E7%BC%B8.png",
+      "git_blob_sha": "d2a4cff65030f3cef0adb2040e6a93561ee85bf8",
+      "bytes": 2301578,
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG",
+      "frame_count": 1,
+      "sha_verified": true,
+      "size_verified": true,
+      "permission_status": "用户收集素材；具体原作者、首发与许可按逐项记录核查，未作统一再授权。"
+    },
+    {
+      "id": "A43",
+      "path": "DeepSeek大肥鱼/表情包/梁文峰.jpg",
+      "name": "戴眼镜男性演讲截帧（原文件名：梁文峰）",
+      "type": "真人演讲照片／视频截帧",
+      "scene": "一名戴眼镜、穿蓝色西装白衬衫的男性在两支话筒前讲话，一手抬起作手势。",
+      "emotion": "正常演讲表情。",
+      "props": [
+        "双话筒",
+        "蓝色西装",
+        "眼镜",
+        "底边裁切字幕"
+      ],
+      "text": [],
+      "meaning": "人物身份只能由原文件名提供线索，未以脸部辨识确认；无原视频、场合、日期和摄影来源，不能关联具体模型事迹。",
+      "credits": "未见可确认拍摄者或出处；底边字幕被裁切，无法可靠转录。",
+      "notes": [],
+      "privacy": [],
+      "events": [],
+      "review": "已逐张目视静态原图。",
+      "source_url": "https://github.com/Zqing567/AI-Personality/blob/119fda9d872cd8890f1fcf03a2ba0f9772ad2d0e/DeepSeek%E5%A4%A7%E8%82%A5%E9%B1%BC/%E8%A1%A8%E6%83%85%E5%8C%85/%E6%A2%81%E6%96%87%E5%B3%B0.jpg",
+      "git_blob_sha": "0cf33d8b34fd8e86ee5c33f661a862aa8955c9a9",
+      "bytes": 251473,
+      "width": 1080,
+      "height": 811,
+      "format": "JPEG",
+      "frame_count": 1,
+      "sha_verified": true,
+      "size_verified": true,
+      "permission_status": "用户收集素材；具体原作者、首发与许可按逐项记录核查，未作统一再授权。"
+    }
+  ]
+}
