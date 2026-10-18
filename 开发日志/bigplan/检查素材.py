@@ -53,7 +53,7 @@ for item in mapping:
 
 assert Counter(actual_hashes) == Counter(x["git_blob_sha"] for x in baseline["images"])
 assert gif_count == 8
-assert len(list((ROOT / "DeepSeek大肥鱼" / "表情包").rglob("*.*"))) == 42
+assert len(list((INDEX_DIR / "表情包").rglob("*.*"))) == 42
 
 links = 0
 for document in ROOT.rglob("*.md"):
